@@ -30,5 +30,3 @@ Choose the latest versions of any of the dependencies below:
 * [numpy](http://www.numpy.org/)
 * [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 * [google cloud](https://cloud.google.com/python/docs/reference/storage/latest)
-* [seaborn](https://github.com/pydata/pydata-google-auth)
-* [ast](https://github.com/python/cpython/blob/3.11/Lib/ast.py)
