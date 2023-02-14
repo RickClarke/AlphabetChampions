@@ -12,7 +12,7 @@ This [dataset](https://data.world/sportsvizsunday/2020-november-boxing-champions
 * Fight location 
 * How long they held a title before they were dethroned
 
-The dataset is uploaded and stored in a BigQuery database, then exported and processed in a [Jupyter notebook](https://cloud.google.com/bigquery/docs/visualize-jupyter) . The final results are exported to a xlsx workbook then vizualized in a Tableau Dashboard, which can be viewd [here](https://public.tableau.com/shared/SCN59NX9W?:display_count=n&:origin=viz_share_link).
+The dataset is uploaded and stored in a BigQuery database, then exported and processed in a [Jupyter notebook](https://cloud.google.com/bigquery/docs/visualize-jupyter) . The final results are exported to a xlsx workbook then vizualized in a Tableau Dashboard, which can be viewd [here](https://public.tableau.com/views/AlphabetChampions/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 
 
